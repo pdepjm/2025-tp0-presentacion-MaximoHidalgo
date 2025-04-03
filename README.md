@@ -30,3 +30,12 @@
   Hasta ahora en lo que va de la carrera la materia que más me gusto cursar fue Análisis de Sistemas de información con los profesores María Florencia Pollo y Diego Mansilla. La verdad que fue la cursada más entretenida e interactiva que llevo hasta ahora y 
   el contenido de la materia me resulto bastante interesante, me termino generando un interés por todo lo que corresponde a la teoría de sistemas y su metodología, lo que sería la gestión y los planes para llevar a cabo un proyecto. En general me dejo claro
   la posibilidad que había de trabajar en ese ámbito y poder aprovechar las capacidades aprendidas durante la carrera para desarrollarme profesionalmente por esa rama un poco más separada de la programación dura, pero que sigue teniendo conexión.
+
+### Mis perritos:
+  Varios sumaron animales y me dio gana de presentar a los mios tambien :D
+
+  # Titan
+   ![Titan](titan.jpeg)
+   
+  # Talia
+   ![Talia](talia.jpeg)
