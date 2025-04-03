@@ -25,3 +25,8 @@
   Me gusta escuchar música en los ratos donde paseo a mis perros, completo actividades varias o descanso un poco de estudiar, en general escucho variedad de música, aunque me gusta bastante el rock o la música de shingeki (me parece buenísima la música de shingeki no kyoshin),
   algunas que otras bandas como: twenty one pilots, artics monkeys, los piojos, la bersuit, callejeros, la vela puerca, etc. En cuanto a la lectura, ahora estoy siguiendo todo lo del Cosmere de Brandon Sanderson (ando en Juramentada, no spoileen).
   También hacia natación, aunque ahora no estoy entrenando porque no encuentro el tiempo, y labure un par de años de soporte técnico NOC, pero se me acabo el contrato y estoy buscando un nuevo trabajo más tirado a programar.
+
+### Materia favorita:
+  Hasta ahora en lo que va de la carrera la materia que más me gusto cursar fue Análisis de Sistemas de información con los profesores María Florencia Pollo y Diego Mansilla. La verdad que fue la cursada más entretenida e interactiva que llevo hasta ahora y 
+  el contenido de la materia me resulto bastante interesante, me termino generando un interés por todo lo que corresponde a la teoría de sistemas y su metodología, lo que sería la gestión y los planes para llevar a cabo un proyecto. En general me dejo claro
+  la posibilidad que había de trabajar en ese ámbito y poder aprovechar las capacidades aprendidas durante la carrera para desarrollarme profesionalmente por esa rama un poco más separada de la programación dura, pero que sigue teniendo conexión.
